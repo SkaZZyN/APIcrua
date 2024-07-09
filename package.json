@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "-": "^0.0.1",
+    "D": "^1.0.0"
+  },
+  "name": "apicrua",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
